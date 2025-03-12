@@ -34,6 +34,7 @@ I love building **clean, modern, and responsive** web applications that enhance 
 🔹 **[Video Voice Translator](https://file-uploader-jet.vercel.app/)** – Video upload & language translation  
 
 🔗 **GitHub Repos:**  
+- [Dashboard Repo](https://github.com/devjahid2/dashboard)  
 - [Curolabs Repo](https://github.com/devjahid2/curolabs)  
 - [Floppa Repo](https://github.com/devjahid2/floppa-v2)  
 - [File Uploader Repo](https://github.com/devjahid2/file-uploader)  
