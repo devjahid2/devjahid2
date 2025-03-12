@@ -44,6 +44,6 @@ I love building **clean, modern, and responsive** web applications that enhance 
 
 💌 **Email:** jahidhasan.developer@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/developerjahidhasan](https://linkedin.com/in/developerjahidhasan)  
-🐙 **GitHub:** [jahid575](https://github.com/jahid575) | [jahid757](https://github.com/jahid757)  
+🐙 **GitHub:** [devjahid2](https://github.com/devjahid2) | [jahid757](https://github.com/jahid757)  
 
 Let's connect and build something amazing! 🚀  
