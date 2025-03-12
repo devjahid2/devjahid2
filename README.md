@@ -28,6 +28,7 @@ I love building **clean, modern, and responsive** web applications that enhance 
 
 ## 📂 Featured Projects  
 
+🔹 **[Dashboard](https://dashboard-weld-psi.vercel.app/)** – Dashboard FrontEnd Design  
 🔹 **[Curolabs](https://curolabs.vercel.app/)** – Trading history & calendar dashboard  
 🔹 **[Floppa](https://floppa-puce.vercel.app/)** – Cryptocurrency swap web application  
 🔹 **[Video Voice Translator](https://file-uploader-jet.vercel.app/)** – Video upload & language translation  
